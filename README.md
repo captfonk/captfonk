@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @captfonk
+- 👋 Hi, I’m @reidt
 - 👀 I’m interested in taking over the world.
 - 🌱 I’m currently learning how to take over the world. 
 - 💞️ I’m NOT looking to collaborate on my global takeover, just computer projects. 
